@@ -4,3 +4,5 @@
     mysql -u root -p protrack_db < protrack_db.sql
 ### To getalong with data:
     mysql -u root -p protrack_db < protrack_db_complete.sql
+
+![Project ER Diagram](ER Diagram.svg)
